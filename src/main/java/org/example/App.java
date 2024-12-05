@@ -49,7 +49,7 @@ public class App {
         Automovil automovilSoloConRadio = new Automovil(radio);
 
         Automovil automovil = new Automovil( motor,radio);
-       // automovil.setMotor(motor);
+        //automovil.setMotor(motor);
         automovil.manejar();
         automovil.escucharRadio();
 
